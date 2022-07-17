@@ -11808,3 +11808,253 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.17-15.45.46:072][909]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2022.07.17-15.45.46:072][909]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2022.07.17-15.45.46:072][909]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_Menu.WBP_Menu
+[2022.07.17-15.48.34:887][ 84]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.07.17-15.48.34:887][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-15.48.35:433][126]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.17-15.48.35:433][126]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2022.07.17-15.48.35:433][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-15.48.35:898][168]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.07.17-15.48.35:898][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-15.48.35:911][168]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.07.17-15.48.35:911][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-15.48.36:436][214]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.17-15.48.36:436][214]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.07.17-15.48.36:436][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-15.49.06:254][459]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.17-15.49.31:140][382]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.17-15.50.26:005][844]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.17-15.50.55:082][304]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.07.17-15.51.29:014][320]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.07.17-15.51.54:740][359]LogEditorTransaction: Undo Edit Size
+[2022.07.17-15.52.20:351][357]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.07.17-15.53.47:921][755]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.17-15.53.57:002][817]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.07.17-15.55.47:335][113]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.17-15.55.49:425][345]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.07.17-15.56.37:219][946]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.07.17-15.57.02:423][914]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.07.17-15.57.36:307][954]BlueprintLog: New page: Compile WBP_Menu
+[2022.07.17-15.57.36:501][954]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2022.07.17-15.57.37:000][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Menu" FILE="../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset" SILENT=true
+[2022.07.17-15.57.37:014][987]LogSavePackage: Moving '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Saved/WBP_Menu6748201F4E0BC78E9B543CA5B1687DD9.tmp' to '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset'
+[2022.07.17-15.57.37:029][987]AssetCheck: New page: Asset Save: WBP_Menu
+[2022.07.17-15.57.37:029][987]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_Menu.WBP_Menu
+[2022.07.17-15.57.42:812][654]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.07.17-15.57.51:514][658]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.07.17-15.58.31:962][285]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.07.17-15.59.17:676][710]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.07.17-15.59.26:990][789]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.07.17-15.59.41:203][473]BlueprintLog: New page: Compile WBP_Menu
+[2022.07.17-15.59.41:346][473]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2022.07.17-15.59.41:850][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Menu" FILE="../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset" SILENT=true
+[2022.07.17-15.59.41:865][510]LogSavePackage: Moving '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Saved/WBP_Menu46B57DD1445CBCA2516D2C94FB9469D4.tmp' to '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset'
+[2022.07.17-15.59.41:876][510]AssetCheck: New page: Asset Save: WBP_Menu
+[2022.07.17-15.59.41:876][510]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_Menu.WBP_Menu
+[2022.07.17-15.59.58:054][187]BlueprintLog: New page: Compile WBP_Menu
+[2022.07.17-15.59.58:110][187]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.07.17-15.59.58:657][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Menu" FILE="../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset" SILENT=true
+[2022.07.17-15.59.58:673][226]LogSavePackage: Moving '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Saved/WBP_Menu9FAE9F7746246C2CF06CA0912DCF0C7F.tmp' to '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset'
+[2022.07.17-15.59.58:684][226]AssetCheck: New page: Asset Save: WBP_Menu
+[2022.07.17-15.59.58:684][226]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_Menu.WBP_Menu
+[2022.07.17-16.00.31:692][248]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.07.17-16.00.34:733][411]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.17-16.00.34:740][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.17-16.00.34:740][411]PIE: New page: PIE session: Minimal_Default (17 Jul 2022, 18:00:34)
+[2022.07.17-16.00.34:740][411]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.17-16.00.34:743][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002776s)
+[2022.07.17-16.00.34:744][411]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.07.17-16.00.34:745][411]LogPlayLevel: PIE: World Init took: (0.001572s)
+[2022.07.17-16.00.34:745][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004495s)
+[2022.07.17-16.00.34:778][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.07.17-16.00.34:778][411]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2022.07.17-16.00.34:778][411]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.17-16.00.34:778][411]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.17-16.00.34:778][411]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.17-16.00.34:778][411]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.17-16.00.34:778][411]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.17-16.00.34:778][411]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.17-16.00.34:778][411]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.17-16.00.34:779][411]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.17-16.00.34:779][411]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.17-16.00.34:779][411]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.17-16.00.34:779][411]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.17-16.00.34:779][411]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.17-16.00.34:784][411]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.17-16.00.34:784][411]LogAudioMixer: Display: 1: FrontRight
+[2022.07.17-16.00.34:796][411]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.17-16.00.34:797][411]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.17-16.00.34:797][411]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.17-16.00.34:797][411]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.17-16.00.34:798][411]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.17-16.00.34:798][411]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.17-16.00.34:798][411]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.17-16.00.34:799][411]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.17-16.00.34:799][411]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.17-16.00.34:799][411]LogInit: FAudioDevice initialized.
+[2022.07.17-16.00.34:799][411]LogAudio: Display: Audio Device (ID: 71) registered with world 'Minimal_Default'.
+[2022.07.17-16.00.34:850][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.17-16.00.34:850][411]LogLoad: Game class is 'ModularBuilderGameMode_C'
+[2022.07.17-16.00.34:851][411]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.07.17-17.00.34
+[2022.07.17-16.00.34:851][411]LogWorld: Bringing up level for play took: 0.000847
+[2022.07.17-16.00.34:852][411]LogOnline: OSS: Creating online subsystem instance for: :Context_115
+[2022.07.17-16.00.34:853][411]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.07.17-16.00.34:856][411]PIE: Server logged in
+[2022.07.17-16.00.34:857][411]PIE: Play in editor total start time 0.119 seconds.
+[2022.07.17-16.00.43:283][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.17-16.00.43:284][397]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.17-16.00.43:284][397]LogSlate: Window 'ModularBuilder Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.17-16.00.43:312][397]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.07.17-16.00.43:312][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-16.00.43:321][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.17-16.00.43:333][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-16.00.43:360][397]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.17-16.00.43:360][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.17-16.00.43:361][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.17-16.00.43:366][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.07.17-16.00.43:383][398]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2022.07.17-16.00.52:367][275]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.07.17-16.01.15:698][685]BlueprintLog: New page: Compile WBP_Menu
+[2022.07.17-16.01.15:740][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.07.17-16.01.16:294][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Menu" FILE="../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset" SILENT=true
+[2022.07.17-16.01.16:308][725]LogSavePackage: Moving '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Saved/WBP_Menu122D73D0455D22B69EB6E09F35C096D5.tmp' to '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset'
+[2022.07.17-16.01.16:320][725]AssetCheck: New page: Asset Save: WBP_Menu
+[2022.07.17-16.01.16:320][725]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_Menu.WBP_Menu
+[2022.07.17-16.01.26:635][932]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2022.07.17-16.01.42:082][780]BlueprintLog: New page: Compile WBP_Menu
+[2022.07.17-16.01.42:139][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.07.17-16.01.42:568][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Menu" FILE="../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset" SILENT=true
+[2022.07.17-16.01.42:583][804]LogSavePackage: Moving '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Saved/WBP_MenuD3C323B34B266D6CFA944A934A5E8257.tmp' to '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset'
+[2022.07.17-16.01.42:594][804]AssetCheck: New page: Asset Save: WBP_Menu
+[2022.07.17-16.01.42:594][804]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_Menu.WBP_Menu
+[2022.07.17-16.01.51:279][826]BlueprintLog: New page: Compile WBP_Menu
+[2022.07.17-16.01.51:333][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.07.17-16.01.51:951][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Menu" FILE="../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset" SILENT=true
+[2022.07.17-16.01.51:965][873]LogSavePackage: Moving '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Saved/WBP_Menu8129BFA346CBF6AAFD414A9ED8D928CA.tmp' to '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset'
+[2022.07.17-16.01.51:980][873]AssetCheck: New page: Asset Save: WBP_Menu
+[2022.07.17-16.01.51:980][873]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_Menu.WBP_Menu
+[2022.07.17-16.01.55:719][318]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.17-16.01.55:726][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.17-16.01.55:726][318]PIE: New page: PIE session: Minimal_Default (17 Jul 2022, 18:01:55)
+[2022.07.17-16.01.55:726][318]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.17-16.01.55:729][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002631s)
+[2022.07.17-16.01.55:730][318]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.07.17-16.01.55:731][318]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2022.07.17-16.01.55:731][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004409s)
+[2022.07.17-16.01.55:761][318]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.07.17-16.01.55:762][318]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2022.07.17-16.01.55:762][318]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.17-16.01.55:762][318]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.17-16.01.55:762][318]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.17-16.01.55:762][318]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.17-16.01.55:762][318]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.17-16.01.55:762][318]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.17-16.01.55:762][318]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.17-16.01.55:762][318]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.17-16.01.55:762][318]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.17-16.01.55:762][318]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.17-16.01.55:762][318]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.17-16.01.55:762][318]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.17-16.01.55:767][318]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.17-16.01.55:767][318]LogAudioMixer: Display: 1: FrontRight
+[2022.07.17-16.01.55:778][318]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.17-16.01.55:779][318]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.17-16.01.55:779][318]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.17-16.01.55:779][318]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.17-16.01.55:779][318]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.17-16.01.55:779][318]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.17-16.01.55:779][318]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.17-16.01.55:781][318]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.17-16.01.55:781][318]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.17-16.01.55:781][318]LogInit: FAudioDevice initialized.
+[2022.07.17-16.01.55:781][318]LogAudio: Display: Audio Device (ID: 72) registered with world 'Minimal_Default'.
+[2022.07.17-16.01.55:814][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.17-16.01.55:815][318]LogLoad: Game class is 'ModularBuilderGameMode_C'
+[2022.07.17-16.01.55:816][318]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.07.17-17.01.55
+[2022.07.17-16.01.55:816][318]LogWorld: Bringing up level for play took: 0.000721
+[2022.07.17-16.01.55:816][318]LogOnline: OSS: Creating online subsystem instance for: :Context_116
+[2022.07.17-16.01.55:818][318]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.07.17-16.01.55:820][318]PIE: Server logged in
+[2022.07.17-16.01.55:821][318]PIE: Play in editor total start time 0.096 seconds.
+[2022.07.17-16.02.08:351][799]LogSlate: Window 'ModularBuilder Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.17-16.02.08:356][799]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.17-16.02.08:382][799]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.07.17-16.02.08:382][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-16.02.08:393][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.17-16.02.08:404][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-16.02.08:428][799]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.17-16.02.08:429][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.17-16.02.08:430][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.17-16.02.08:445][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.07.17-16.02.08:461][800]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2022.07.17-16.02.12:874][295]BlueprintLog: New page: Compile WBP_Menu
+[2022.07.17-16.02.12:912][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.07.17-16.02.13:843][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Menu" FILE="../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset" SILENT=true
+[2022.07.17-16.02.13:857][375]LogSavePackage: Moving '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Saved/WBP_Menu4A94C07648C6841AA41925BAC1B94AED.tmp' to '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset'
+[2022.07.17-16.02.13:869][375]AssetCheck: New page: Asset Save: WBP_Menu
+[2022.07.17-16.02.13:869][375]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_Menu.WBP_Menu
+[2022.07.17-16.02.17:663][826]LogEditorTransaction: Undo Edit Size To Content
+[2022.07.17-16.02.20:501][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Menu" FILE="../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset" SILENT=true
+[2022.07.17-16.02.20:516][ 89]LogSavePackage: Moving '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Saved/WBP_Menu4A2E0651401BB83EAA9F48B2091DB09A.tmp' to '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset'
+[2022.07.17-16.02.20:528][ 89]AssetCheck: New page: Asset Save: WBP_Menu
+[2022.07.17-16.02.20:528][ 89]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_Menu.WBP_Menu
+[2022.07.17-16.02.26:681][817]BlueprintLog: New page: Compile WBP_Menu
+[2022.07.17-16.02.26:740][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.07.17-16.02.27:290][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_Menu" FILE="../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset" SILENT=true
+[2022.07.17-16.02.27:306][856]LogSavePackage: Moving '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Saved/WBP_MenuBE29D50F4F5B559EABE6739ACCDA825B.tmp' to '../../../../../../Users/grill/OneDrive/Documents/Job Stuff/Virtual Arts Technical Test/ModularBuilder/Content/UI/WBP_Menu.uasset'
+[2022.07.17-16.02.27:317][856]AssetCheck: New page: Asset Save: WBP_Menu
+[2022.07.17-16.02.27:317][856]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WBP_Menu.WBP_Menu
+[2022.07.17-16.02.28:123][951]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.17-16.02.28:130][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.17-16.02.28:130][951]PIE: New page: PIE session: Minimal_Default (17 Jul 2022, 18:02:28)
+[2022.07.17-16.02.28:130][951]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.17-16.02.28:133][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002800s)
+[2022.07.17-16.02.28:134][951]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.07.17-16.02.28:134][951]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2022.07.17-16.02.28:134][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004008s)
+[2022.07.17-16.02.28:164][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.07.17-16.02.28:164][951]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2022.07.17-16.02.28:164][951]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.17-16.02.28:164][951]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.17-16.02.28:164][951]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.17-16.02.28:164][951]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.17-16.02.28:164][951]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.17-16.02.28:164][951]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.17-16.02.28:164][951]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.17-16.02.28:164][951]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.17-16.02.28:165][951]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.17-16.02.28:165][951]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.17-16.02.28:165][951]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.17-16.02.28:165][951]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.17-16.02.28:169][951]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.17-16.02.28:169][951]LogAudioMixer: Display: 1: FrontRight
+[2022.07.17-16.02.28:180][951]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.07.17-16.02.28:180][951]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.17-16.02.28:180][951]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.17-16.02.28:180][951]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.17-16.02.28:180][951]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.17-16.02.28:180][951]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.17-16.02.28:181][951]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.17-16.02.28:182][951]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.17-16.02.28:182][951]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.17-16.02.28:182][951]LogInit: FAudioDevice initialized.
+[2022.07.17-16.02.28:182][951]LogAudio: Display: Audio Device (ID: 73) registered with world 'Minimal_Default'.
+[2022.07.17-16.02.28:227][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.17-16.02.28:227][951]LogLoad: Game class is 'ModularBuilderGameMode_C'
+[2022.07.17-16.02.28:228][951]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.07.17-17.02.28
+[2022.07.17-16.02.28:228][951]LogWorld: Bringing up level for play took: 0.000671
+[2022.07.17-16.02.28:228][951]LogOnline: OSS: Creating online subsystem instance for: :Context_117
+[2022.07.17-16.02.28:230][951]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.07.17-16.02.28:232][951]PIE: Server logged in
+[2022.07.17-16.02.28:233][951]PIE: Play in editor total start time 0.105 seconds.
+[2022.07.17-16.02.43:541][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.17-16.02.43:543][739]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.17-16.02.43:543][739]LogSlate: Window 'ModularBuilder Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.17-16.02.43:591][739]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.07.17-16.02.43:591][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-16.02.43:602][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.17-16.02.43:613][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.17-16.02.43:639][739]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.17-16.02.43:639][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.17-16.02.43:640][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.17-16.02.43:646][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.07.17-16.02.43:664][740]LogPlayLevel: Display: Destroying online subsystem :Context_117
